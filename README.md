@@ -1,3 +1,6 @@
+# Feedback for the Angular Language Service Extension in Visual Studio
+
+This repository is an **issue only** repo to allow users to leave feedback and report bugs seen while using the Angular Language Service Extension in Visual Studio.
 
 # Contributing
 
